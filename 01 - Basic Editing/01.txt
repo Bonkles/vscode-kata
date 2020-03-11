@@ -36,10 +36,6 @@ And definitely delete me too!
 
 (Note: this works even if you just have any selection on the line- if the cursor or selection is touching the line, it will get deleted.)
 
-4)
-
-
-
 
 
 

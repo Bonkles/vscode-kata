@@ -1,0 +1,29 @@
+// A list of fake naughty people that haven't yet used vs code @ fb.
+// What to do with them?
+
+
+// 3a - Let's say we want to extract the data in the format `lastname, firstname`.
+// This will help us report them to management.
+// Use ⌥-click to insert cursors where you need, and delete things
+
+//(Tip- ⌘+u will undo cursor operations!)
+row,first_name,last_name,id
+1,Aurilia,Lysons,12345678
+2,Markus,Balsdon,83456212
+3,Joshuah,Kyne,12315445
+4,Janie,MacCaffrey,12987312
+
+
+// 3b - Now use the Find (⌘+f) functionality with some regex's to
+// get things into lastname, firstname format.
+// Try the `\d` character if your regex's are rusty.
+
+// Hints:
+// * select the block.
+// Hit ⌘+f to find.
+// Click the 'find in selection' button to limit your search to this block.
+// Click the '〉' Angle bracket next to the find to open the 'replace' window.
+1,Aurilia,Lysons,12345678
+2,Markus,Balsdon,83456212
+3,Joshuah,Kyne,12315445
+4,Janie,MacCaffrey,12987312
