@@ -1,0 +1,45 @@
+
+1) Start small! Reorder this haiku the quickest way you know how.
+
+VSCode kata is
+come along and learn
+a good way to get started
+
+
+1a) Again! This time, simply place the cursor someplace (no need to select) and
+cut. Then Paste. What happens?
+
+VSCode kata is
+come along and learn
+a good way to get started
+
+1b) Again! Now use the option key (⌥) with up or down arrows (↑ ↓) to move a line.
+
+VSCode kata is
+come along and learn
+a good way to get started
+
+
+2) Copy the line up or down with (⇧+⌥+↑) or (⇧+⌥+↓).
+
+Carbon Copy me!
+
+3) (⇧ ⌘ K) Kills a line dead.
+
+Please delete me
+
+3a) This also works across multiple lines. Select the whole block and then (⇧ ⌘ K).
+
+Please delete me
+Please delete me as well
+And definitely delete me too!
+
+(Note: this works even if you just have any selection on the line- if the cursor or selection is touching the line, it will get deleted.)
+
+4)
+
+
+
+
+
+
