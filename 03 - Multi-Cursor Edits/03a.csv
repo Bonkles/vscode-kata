@@ -13,9 +13,20 @@ row,first_name,last_name,id
 3,Joshuah,Kyne,12315445
 4,Janie,MacCaffrey,12987312
 
+// 3b - same as 3a, but with spaces nicely lining up some columns.
+// Use column-selections to isolate blocks of data and move them around.
+//
+// Keyboard method: ⌘+⇧+⌥  plus arrow keys to move the cursor around.
+// Mouse method: place cursor, then ⌘+⇧+click (and drag).
+row,first_name,last_name,id
+1,  Aurilia,    Lysons,     12345678
+2,  Markus,     Balsdon,    83456212
+3,  Joshuah,    Kyne,       12315445
+4,  Janie,      MacCaffrey, 12987312
 
-// 3b - Now use the Find (⌘+f) functionality with some regex's to
-// get things into lastname, firstname format.
+// 3c - Now use the Find (⌘+f) functionality with some regex's to
+// get things into lastname, firstname format. There aren't any spaces now,
+// so column selection isn't going to help much.
 // Try the `\d` character if your regex's are rusty.
 
 // Hints:
