@@ -1,14 +1,12 @@
 // 01 - Place  your cursor next to any curly brace '{' or '}'.
 // Then use the 'Go to Bracket' command (⇧ ⌘ \) to jump to the matching brace.
 function ijustcanteven() {
-
     for (var i=0; i<10; i++){
-
         if (i % 2 != 0){
             console.log("I CAN'T EVEN");
         }
     }
-  }
+}
 
 // 02 - This code block has a very helpful comment just above it- but
 // they used hashtags instead of //.  the 'Toggle Line Comment' command
@@ -26,7 +24,7 @@ function commentMeImBroken() {
     //Coach Z says...
     console.lourg("bleh");
     throw new BrokenStuffException;
-  }
+}
 
 
 
@@ -49,8 +47,8 @@ if (true) {
                                     if (true) {
                                         if (true) {
                                             if (true) {
-                                                console.log("truth, brah.");
-                                            }
+                                                    console.log("truth, brah.");
+                                                }
                                             }
                                         }
                                     }
@@ -62,5 +60,4 @@ if (true) {
             }
         }
     }
-
 }
