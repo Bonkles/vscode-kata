@@ -35,6 +35,7 @@ Please delete me
 
 (Note: this works even if you just have any selection on the line- if the cursor or selection is touching the line, it will get deleted.)
 
+Finally- notice the Source control hints in the gutter! What's up with those?
 
 
 
