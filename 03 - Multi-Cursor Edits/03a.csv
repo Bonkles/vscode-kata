@@ -17,7 +17,7 @@ row,first_name,last_name,id
 // Use column-selections to isolate blocks of data and move them around.
 //
 // Keyboard method: ⌘+⇧+⌥  plus arrow keys to move the cursor around.
-// Mouse method: place cursor, then ⌘+⇧+click (and drag).
+// Mouse method: place cursor, then ⌥+⇧+click (and drag).
 row,first_name,last_name,id
 1,  Aurilia,    Lysons,     12345678
 2,  Markus,     Balsdon,    83456212
